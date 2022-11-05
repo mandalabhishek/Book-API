@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32630.194
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "API.Ajmera", "..\Ajmera\API.Ajmera\API.Ajmera.csproj", "{F4025D4B-C057-40DD-B21C-6E467E5412B0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "API.Ajmera", "API.Ajmera\API.Ajmera.csproj", "{F4025D4B-C057-40DD-B21C-6E467E5412B0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API.Ajmera.UnitTest", "..\Ajmera\API.Ajmera.UnitTest\API.Ajmera.UnitTest.csproj", "{D84C44CC-828F-4FB7-B246-88364ABB69DA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API.Ajmera.Test", "API.Ajmera.Test\API.Ajmera.Test.csproj", "{6342835B-A161-4F15-BF04-DFC50F5F871A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{F4025D4B-C057-40DD-B21C-6E467E5412B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F4025D4B-C057-40DD-B21C-6E467E5412B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F4025D4B-C057-40DD-B21C-6E467E5412B0}.Release|Any CPU.Build.0 = Release|Any CPU
-		{D84C44CC-828F-4FB7-B246-88364ABB69DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D84C44CC-828F-4FB7-B246-88364ABB69DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D84C44CC-828F-4FB7-B246-88364ABB69DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D84C44CC-828F-4FB7-B246-88364ABB69DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6342835B-A161-4F15-BF04-DFC50F5F871A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6342835B-A161-4F15-BF04-DFC50F5F871A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6342835B-A161-4F15-BF04-DFC50F5F871A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6342835B-A161-4F15-BF04-DFC50F5F871A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
